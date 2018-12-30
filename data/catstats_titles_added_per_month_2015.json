@@ -1,0 +1,722 @@
+[
+    {
+        "series": "Book",
+        "count": 129,
+        "date": "2015-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 0,
+        "date": "2015-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 383,
+        "date": "2015-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 240,
+        "date": "2015-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 926,
+        "date": "2015-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 882,
+        "date": "2015-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 887,
+        "date": "2015-06-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 0,
+        "date": "2015-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 0,
+        "date": "2015-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 0,
+        "date": "2015-09-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 124,
+        "date": "2015-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 186,
+        "date": "2015-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "CD",
+        "count": 0,
+        "date": "2015-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "CD",
+        "count": 0,
+        "date": "2015-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "CD",
+        "count": 0,
+        "date": "2015-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "CD",
+        "count": 0,
+        "date": "2015-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "CD",
+        "count": 0,
+        "date": "2015-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "CD",
+        "count": 0,
+        "date": "2015-06-01T08:00:00.000Z"
+    },
+    {
+        "series": "CD",
+        "count": 0,
+        "date": "2015-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "CD",
+        "count": 0,
+        "date": "2015-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "CD",
+        "count": 0,
+        "date": "2015-09-01T08:00:00.000Z"
+    },
+    {
+        "series": "CD",
+        "count": 0,
+        "date": "2015-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "CD",
+        "count": 0,
+        "date": "2015-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "CD",
+        "count": 0,
+        "date": "2015-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 8,
+        "date": "2015-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 0,
+        "date": "2015-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 8,
+        "date": "2015-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 36,
+        "date": "2015-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 0,
+        "date": "2015-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 2,
+        "date": "2015-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 0,
+        "date": "2015-06-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 3,
+        "date": "2015-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 3,
+        "date": "2015-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 0,
+        "date": "2015-09-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 0,
+        "date": "2015-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 0,
+        "date": "2015-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 79,
+        "date": "2015-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 87,
+        "date": "2015-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 67,
+        "date": "2015-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 24,
+        "date": "2015-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 6,
+        "date": "2015-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 3,
+        "date": "2015-06-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 5,
+        "date": "2015-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 5,
+        "date": "2015-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 21,
+        "date": "2015-09-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 14,
+        "date": "2015-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 58,
+        "date": "2015-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 25,
+        "date": "2015-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 30,
+        "date": "2015-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 240,
+        "date": "2015-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 373,
+        "date": "2015-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 22,
+        "date": "2015-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 40,
+        "date": "2015-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 154,
+        "date": "2015-06-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 0,
+        "date": "2015-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 0,
+        "date": "2015-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 70,
+        "date": "2015-09-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 168,
+        "date": "2015-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 0,
+        "date": "2015-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 206,
+        "date": "2015-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "eDocument",
+        "count": 23,
+        "date": "2015-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "eDocument",
+        "count": 0,
+        "date": "2015-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "eDocument",
+        "count": 0,
+        "date": "2015-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "eDocument",
+        "count": 0,
+        "date": "2015-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "eDocument",
+        "count": 0,
+        "date": "2015-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "eDocument",
+        "count": 0,
+        "date": "2015-06-01T08:00:00.000Z"
+    },
+    {
+        "series": "eDocument",
+        "count": 2,
+        "date": "2015-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "eDocument",
+        "count": 0,
+        "date": "2015-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "eDocument",
+        "count": 0,
+        "date": "2015-09-01T08:00:00.000Z"
+    },
+    {
+        "series": "eDocument",
+        "count": 4,
+        "date": "2015-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "eDocument",
+        "count": 0,
+        "date": "2015-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "eDocument",
+        "count": 0,
+        "date": "2015-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "Map",
+        "count": 0,
+        "date": "2015-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "Map",
+        "count": 0,
+        "date": "2015-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "Map",
+        "count": 0,
+        "date": "2015-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "Map",
+        "count": 0,
+        "date": "2015-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "Map",
+        "count": 0,
+        "date": "2015-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "Map",
+        "count": 0,
+        "date": "2015-06-01T08:00:00.000Z"
+    },
+    {
+        "series": "Map",
+        "count": 0,
+        "date": "2015-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "Map",
+        "count": 0,
+        "date": "2015-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "Map",
+        "count": 0,
+        "date": "2015-09-01T08:00:00.000Z"
+    },
+    {
+        "series": "Map",
+        "count": 2,
+        "date": "2015-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "Map",
+        "count": 0,
+        "date": "2015-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "Map",
+        "count": 0,
+        "date": "2015-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 0,
+        "date": "2015-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 0,
+        "date": "2015-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 0,
+        "date": "2015-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 20,
+        "date": "2015-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": "0",
+        "date": "2015-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 0,
+        "date": "2015-06-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 0,
+        "date": "2015-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 0,
+        "date": "2015-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 0,
+        "date": "2015-09-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 0,
+        "date": "2015-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 0,
+        "date": "2015-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 0,
+        "date": "2015-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "Mixed",
+        "count": 2,
+        "date": "2015-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "Mixed",
+        "count": 2,
+        "date": "2015-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "Mixed",
+        "count": 0,
+        "date": "2015-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "Mixed",
+        "count": 0,
+        "date": "2015-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "Mixed",
+        "count": 36,
+        "date": "2015-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "Mixed",
+        "count": 50,
+        "date": "2015-06-01T08:00:00.000Z"
+    },
+    {
+        "series": "Mixed",
+        "count": 82,
+        "date": "2015-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "Mixed",
+        "count": 196,
+        "date": "2015-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "Mixed",
+        "count": 2,
+        "date": "2015-09-01T08:00:00.000Z"
+    },
+    {
+        "series": "Mixed",
+        "count": 6,
+        "date": "2015-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "Mixed",
+        "count": 0,
+        "date": "2015-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "Mixed",
+        "count": 0,
+        "date": "2015-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "Other",
+        "count": 0,
+        "date": "2015-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "Other",
+        "count": 0,
+        "date": "2015-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "Other",
+        "count": 0,
+        "date": "2015-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "Other",
+        "count": 4,
+        "date": "2015-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "Other",
+        "count": 80,
+        "date": "2015-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "Other",
+        "count": 0,
+        "date": "2015-06-01T08:00:00.000Z"
+    },
+    {
+        "series": "Other",
+        "count": 2,
+        "date": "2015-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "Other",
+        "count": 2,
+        "date": "2015-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "Other",
+        "count": 2,
+        "date": "2015-09-01T08:00:00.000Z"
+    },
+    {
+        "series": "Other",
+        "count": 0,
+        "date": "2015-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "Other",
+        "count": 4,
+        "date": "2015-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "Other",
+        "count": 0,
+        "date": "2015-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 14,
+        "date": "2015-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 27,
+        "date": "2015-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 0,
+        "date": "2015-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 6,
+        "date": "2015-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 3,
+        "date": "2015-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 6,
+        "date": "2015-06-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 97,
+        "date": "2015-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 0,
+        "date": "2015-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 78,
+        "date": "2015-09-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 29,
+        "date": "2015-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 0,
+        "date": "2015-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 2,
+        "date": "2015-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 0,
+        "date": "2015-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 0,
+        "date": "2015-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 0,
+        "date": "2015-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 0,
+        "date": "2015-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 2,
+        "date": "2015-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 0,
+        "date": "2015-06-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 0,
+        "date": "2015-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 0,
+        "date": "2015-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 34,
+        "date": "2015-09-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 0,
+        "date": "2015-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 0,
+        "date": "2015-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 0,
+        "date": "2015-12-01T08:00:00.000Z"
+    }
+]
