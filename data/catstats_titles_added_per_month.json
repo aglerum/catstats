@@ -1,22 +1,22 @@
 [
     {
         "series": "Book",
-        "count": 2785,
+        "count": 278,
         "date": "2014-01-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 2271,
+        "count": 227,
         "date": "2014-02-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 1892,
+        "count": 189,
         "date": "2014-03-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 2821,
+        "count": 282,
         "date": "2014-04-01T08:00:00.000Z"
     },
     {
@@ -41,12 +41,12 @@
     },
     {
         "series": "Book",
-        "count": 2030,
+        "count": 203,
         "date": "2014-09-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 1831,
+        "count": 183,
         "date": "2014-10-01T08:00:00.000Z"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
         "series": "Book",
-        "count": 1297,
+        "count": 129,
         "date": "2015-01-01T08:00:00.000Z"
     },
     {
@@ -71,7 +71,7 @@
     },
     {
         "series": "Book",
-        "count": 2401,
+        "count": 240,
         "date": "2015-03-01T08:00:00.000Z"
     },
     {
@@ -111,12 +111,12 @@
     },
     {
         "series": "Book",
-        "count": 1248,
+        "count": 124,
         "date": "2015-11-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 1865,
+        "count": 186,
         "date": "2015-12-01T08:00:00.000Z"
     },
     {
@@ -151,12 +151,12 @@
     },
     {
         "series": "Book",
-        "count": 1718,
+        "count": 171,
         "date": "2016-09-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 1266,
+        "count": 126,
         "date": "2016-10-01T08:00:00.000Z"
     },
     {
@@ -211,82 +211,82 @@
     },
     {
         "series": "Book",
-        "count": 1363,
+        "count": 136,
         "date": "2017-07-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 2776,
+        "count": 277,
         "date": "2017-08-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 15538,
+        "count": 155,
         "date": "2017-09-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 2182,
+        "count": 218,
         "date": "2017-10-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 1084,
+        "count": 108,
         "date": "2017-11-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 1366,
+        "count": 136,
         "date": "2017-12-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 2314,
+        "count": 231,
         "date": "2018-01-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 1628,
+        "count": 162,
         "date": "2018-02-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 2143,
+        "count": 214,
         "date": "2018-03-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 2706,
+        "count": 270,
         "date": "2018-04-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 1642,
+        "count": 164,
         "date": "2018-05-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 1945,
+        "count": 194,
         "date": "2018-06-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 1779,
+        "count": 177,
         "date": "2018-07-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 1967,
+        "count": 196,
         "date": "2018-08-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 1372,
+        "count": 137,
         "date": "2018-09-01T08:00:00.000Z"
     },
     {
         "series": "Book",
-        "count": 1283,
+        "count": 128,
         "date": "2018-10-01T08:00:00.000Z"
     },
     {
@@ -631,12 +631,12 @@
     },
     {
         "series": "Document",
-        "count": 1105,
+        "count": 110,
         "date": "2014-07-01T08:00:00.000Z"
     },
     {
         "series": "Document",
-        "count": 1631,
+        "count": 163,
         "date": "2014-08-01T08:00:00.000Z"
     },
     {
@@ -1221,7 +1221,7 @@
     },
     {
         "series": "eBook",
-        "count": 34312,
+        "count": 343,
         "date": "2014-05-01T08:00:00.000Z"
     },
     {
@@ -1271,7 +1271,7 @@
     },
     {
         "series": "eBook",
-        "count": 37358,
+        "count": 373,
         "date": "2015-03-01T08:00:00.000Z"
     },
     {
@@ -1331,7 +1331,7 @@
     },
     {
         "series": "eBook",
-        "count": 273171,
+        "count": 273,
         "date": "2016-03-01T08:00:00.000Z"
     },
     {
@@ -1361,7 +1361,7 @@
     },
     {
         "series": "eBook",
-        "count": 295188,
+        "count": 295,
         "date": "2016-09-01T08:00:00.000Z"
     },
     {
@@ -2991,7 +2991,7 @@
     },
     {
         "series": "Other",
-        "count": 2070,
+        "count": 207,
         "date": "2018-11-01T08:00:00.000Z"
     },
     {
@@ -3706,7 +3706,7 @@
     },
     {
         "series": "Streaming",
-        "count": 1578,
+        "count": 157,
         "date": "2015-10-01T08:00:00.000Z"
     },
     {
