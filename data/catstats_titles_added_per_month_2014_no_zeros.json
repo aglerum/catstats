@@ -1,0 +1,383 @@
+[
+    {
+        "series": "Book",
+        "count": 278,
+        "date": "2014-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 227,
+        "date": "2014-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 189,
+        "date": "2014-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 282,
+        "date": "2014-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 775,
+        "date": "2014-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 311,
+        "date": "2014-06-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 572,
+        "date": "2014-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 842,
+        "date": "2014-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 203,
+        "date": "2014-09-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 183,
+        "date": "2014-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "Book",
+        "count": 101,
+        "date": "2014-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "CD",
+        "count": 6,
+        "date": "2014-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "CD",
+        "count": 2,
+        "date": "2014-10-01T08:00:00.000Z"
+    },
+    
+    {
+        "series": "Document",
+        "count": 81,
+        "date": "2014-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 92,
+        "date": "2014-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 173,
+        "date": "2014-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 359,
+        "date": "2014-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 235,
+        "date": "2014-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 372,
+        "date": "2014-06-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 110,
+        "date": "2014-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 163,
+        "date": "2014-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 889,
+        "date": "2014-09-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 80,
+        "date": "2014-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 74,
+        "date": "2014-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "Document",
+        "count": 742,
+        "date": "2014-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 66,
+        "date": "2014-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 73,
+        "date": "2014-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 9,
+        "date": "2014-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 16,
+        "date": "2014-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 40,
+        "date": "2014-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 2,
+        "date": "2014-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 29,
+        "date": "2014-09-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 32,
+        "date": "2014-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "DVD",
+        "count": 54,
+        "date": "2014-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 86,
+        "date": "2014-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 28,
+        "date": "2014-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 52,
+        "date": "2014-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 24,
+        "date": "2014-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 343,
+        "date": "2014-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 88,
+        "date": "2014-06-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 8,
+        "date": "2014-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 60,
+        "date": "2014-09-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 20,
+        "date": "2014-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 54,
+        "date": "2014-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "eBook",
+        "count": 36,
+        "date": "2014-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "eDocument",
+        "count": 2,
+        "date": "2014-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "eDocument",
+        "count": 58,
+        "date": "2014-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "Map",
+        "count": 8,
+        "date": "2014-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "Map",
+        "count": 2,
+        "date": "2014-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "Map",
+        "count": 2,
+        "date": "2014-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "Map",
+        "count": 2,
+        "date": "2014-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 119,
+        "date": "2014-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 4,
+        "date": "2014-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 5,
+        "date": "2014-06-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 6,
+        "date": "2014-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 6,
+        "date": "2014-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "Microform",
+        "count": 2,
+        "date": "2014-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "Other",
+        "count": 2,
+        "date": "2014-02-01T08:00:00.000Z"
+    },
+    {
+        "series": "Other",
+        "count": 85,
+        "date": "2014-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 11,
+        "date": "2014-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 120,
+        "date": "2014-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 286,
+        "date": "2014-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 90,
+        "date": "2014-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 102,
+        "date": "2014-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 122,
+        "date": "2014-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 181,
+        "date": "2014-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "Periodical",
+        "count": 22,
+        "date": "2014-12-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 320,
+        "date": "2014-01-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 186,
+        "date": "2014-03-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 132,
+        "date": "2014-04-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 77,
+        "date": "2014-05-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 185,
+        "date": "2014-07-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 15,
+        "date": "2014-08-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 69,
+        "date": "2014-10-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 69,
+        "date": "2014-11-01T08:00:00.000Z"
+    },
+    {
+        "series": "Serial",
+        "count": 36,
+        "date": "2014-12-01T08:00:00.000Z"
+    }
+]
