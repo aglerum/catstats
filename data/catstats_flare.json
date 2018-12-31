@@ -352,7 +352,7 @@
         ]
     },
     {
-        "name": "category.formate.Media",
+        "name": "category.format.eMedia",
         "size": 1000,
         "imports": [
             "method.Aleph",
