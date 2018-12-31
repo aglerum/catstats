@@ -1,626 +1,626 @@
 [
   {
-    "name": "catstats.method.Manual",
+    "name": "method: Manual",
     "size": 1000,
     "processes": [
-      "catstats.format.Books",
-      "catstats.format.eBooks",
-      "catstats.format.Serials",
-      "catstats.format.eSerials",
-      "catstats.format.Documents",
-      "catstats.format.eDocuments",
-      "catstats.format.Media",
-      "catstats.format.eMedia",
-      "catstats.format.Other",
-      "catstats.unit.Acquisitions"
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.method.Manual",
+    "name": "method: Manual",
     "size": 1000,
     "processes": [
-      "catstats.format.Books",
-      "catstats.format.eBooks",
-      "catstats.format.Serials",
-      "catstats.format.eSerials",
-      "catstats.format.Documents",
-      "catstats.format.eDocuments",
-      "catstats.format.Media",
-      "catstats.format.eMedia",
-      "catstats.format.Other",
-      "catstats.unit.Cataloging"
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.method.Aleph",
+    "name": "method: Aleph",
     "size": 1000,
     "processes": [
-      "catstats.format.Books",
-      "catstats.format.eBooks",
-      "catstats.format.Serials",
-      "catstats.format.eSerials",
-      "catstats.format.Documents",
-      "catstats.format.eDocuments",
-      "catstats.format.Media",
-      "catstats.format.eMedia",
-      "catstats.format.Other",
-      "catstats.unit.Acquisitions"
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.method.Aleph",
+    "name": "method: Aleph",
     "size": 1000,
     "processes": [
-      "catstats.format.Books",
-      "catstats.format.eBooks",
-      "catstats.format.Serials",
-      "catstats.format.eSerials",
-      "catstats.format.Documents",
-      "catstats.format.eDocuments",
-      "catstats.format.Media",
-      "catstats.format.eMedia",
-      "catstats.format.Other",
-      "catstats.unit.Cataloging"
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.method.Genload",
+    "name": "method: Genload",
     "size": 1000,
     "processes": [
-      "catstats.format.Books",
-      "catstats.format.eBooks",
-      "catstats.format.Serials",
-      "catstats.format.eSerials",
-      "catstats.format.Documents",
-      "catstats.format.eDocuments",
-      "catstats.format.Media",
-      "catstats.format.eMedia",
-      "catstats.format.Other",
-      "catstats.unit.Acquisitions"
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.method.Genload",
+    "name": "method: Genload",
     "size": 1000,
     "processes": [
-      "catstats.format.Books",
-      "catstats.format.eBooks",
-      "catstats.format.Serials",
-      "catstats.format.eSerials",
-      "catstats.format.Documents",
-      "catstats.format.eDocuments",
-      "catstats.format.Media",
-      "catstats.format.eMedia",
-      "catstats.format.Other",
-      "catstats.unit.Cataloging"
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.unit.Cataloging",
+    "name": "unit: Cataloging",
     "size": 1000,
     "processes": [
-      "catstats.format.Books",
-      "catstats.format.eBooks",
-      "catstats.format.Serials",
-      "catstats.format.eSerials",
-      "catstats.format.Documents",
-      "catstats.format.eDocuments",
-      "catstats.format.Media",
-      "catstats.format.eMedia",
-      "catstats.format.Other",
-      "catstats.method.Manual"
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "method: Manual"
     ]
   },
   {
-    "name": "catstats.unit.Cataloging",
+    "name": "unit: Cataloging",
     "size": 1000,
     "processes": [
-      "catstats.format.Books",
-      "catstats.format.eBooks",
-      "catstats.format.Serials",
-      "catstats.format.eSerials",
-      "catstats.format.Documents",
-      "catstats.format.eDocuments",
-      "catstats.format.Media",
-      "catstats.format.eMedia",
-      "catstats.format.Other",
-      "catstats.method.Aleph"
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "method: Aleph"
     ]
   },
   {
-    "name": "catstats.unit.Cataloging",
+    "name": "unit: Cataloging",
     "size": 1000,
     "processes": [
-      "catstats.format.Books",
-      "catstats.format.eBooks",
-      "catstats.format.Serials",
-      "catstats.format.eSerials",
-      "catstats.format.Documents",
-      "catstats.format.eDocuments",
-      "catstats.format.Media",
-      "catstats.format.eMedia",
-      "catstats.format.Other",
-      "catstats.method.Genload"
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "method: Genload"
     ]
   },
   {
-    "name": "catstats.unit.Acquisitions",
+    "name": "unit: Acquisitions",
     "size": 1000,
     "processes": [
-      "catstats.format.Books",
-      "catstats.format.eBooks",
-      "catstats.format.Serials",
-      "catstats.format.eSerials",
-      "catstats.format.Documents",
-      "catstats.format.eDocuments",
-      "catstats.format.Media",
-      "catstats.format.eMedia",
-      "catstats.format.Other",
-      "catstats.method.Manual"
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "method: Manual"
     ]
   },
   {
-    "name": "catstats.unit.Acquisitions",
+    "name": "unit: Acquisitions",
     "size": 1000,
     "processes": [
-      "catstats.format.Books",
-      "catstats.format.eBooks",
-      "catstats.format.Serials",
-      "catstats.format.eSerials",
-      "catstats.format.Documents",
-      "catstats.format.eDocuments",
-      "catstats.format.Media",
-      "catstats.format.eMedia",
-      "catstats.format.Other",
-      "catstats.method.Aleph"
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "method: Aleph"
     ]
   },
   {
-    "name": "catstats.unit.Acquisitions",
+    "name": "unit: Acquisitions",
     "size": 1000,
     "processes": [
-      "catstats.format.Books",
-      "catstats.format.eBooks",
-      "catstats.format.Serials",
-      "catstats.format.eSerials",
-      "catstats.format.Documents",
-      "catstats.format.eDocuments",
-      "catstats.format.Media",
-      "catstats.format.eMedia",
-      "catstats.format.Other",
-      "catstats.method.Genload"
+      "format: Books",
+      "format: eBooks",
+      "format: Serials",
+      "format: eSerials",
+      "format: Documents",
+      "format: eDocuments",
+      "format: Media",
+      "format: eMedia",
+      "format: Other",
+      "method: Genload"
     ]
   },
   {
-    "name": "catstats.format.Books",
+    "name": "format: Books",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Cataloging"
+      "method: Manual",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.Books",
+    "name": "format: Books",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Acquisitions"
+      "method: Manual",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.Books",
+    "name": "format: Books",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Cataloging"
+      "method: Aleph",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.Books",
+    "name": "format: Books",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Acquisitions"
+      "method: Aleph",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.Books",
+    "name": "format: Books",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Cataloging"
+      "method: Genload",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.Books",
+    "name": "format: Books",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Acquisitions"
+      "method: Genload",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.eBooks",
+    "name": "format: eBooks",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Cataloging"
+      "method: Manual",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.eBooks",
+    "name": "format: eBooks",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Acquisitions"
+      "method: Manual",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.eBooks",
+    "name": "format: eBooks",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Cataloging"
+      "method: Aleph",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.eBooks",
+    "name": "format: eBooks",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Acquisitions"
+      "method: Aleph",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.eBooks",
+    "name": "format: eBooks",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Cataloging"
+      "method: Genload",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.eBooks",
+    "name": "format: eBooks",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Acquisitions"
+      "method: Genload",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.Serials",
+    "name": "format: Serials",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Cataloging"
+      "method: Manual",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.Serials",
+    "name": "format: Serials",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Acquisitions"
+      "method: Manual",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.Serials",
+    "name": "format: Serials",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Cataloging"
+      "method: Aleph",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.Serials",
+    "name": "format: Serials",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Acquisitions"
+      "method: Aleph",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.Serials",
+    "name": "format: Serials",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Cataloging"
+      "method: Genload",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.Serials",
+    "name": "format: Serials",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Acquisitions"
+      "method: Genload",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.eSerials",
+    "name": "format: eSerials",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Cataloging"
+      "method: Manual",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.eSerials",
+    "name": "format: eSerials",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Acquisitions"
+      "method: Manual",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.eSerials",
+    "name": "format: eSerials",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Cataloging"
+      "method: Aleph",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.eSerials",
+    "name": "format: eSerials",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Acquisitions"
+      "method: Aleph",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.eSerials",
+    "name": "format: eSerials",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Cataloging"
+      "method: Genload",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.eSerials",
+    "name": "format: eSerials",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Acquisitions"
+      "method: Genload",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.Documents",
+    "name": "format: Documents",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Cataloging"
+      "method: Manual",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.Documents",
+    "name": "format: Documents",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Acquisitions"
+      "method: Manual",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.Documents",
+    "name": "format: Documents",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Cataloging"
+      "method: Aleph",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.Documents",
+    "name": "format: Documents",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Acquisitions"
+      "method: Aleph",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.Documents",
+    "name": "format: Documents",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Cataloging"
+      "method: Genload",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.Documents",
+    "name": "format: Documents",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Acquisitions"
+      "method: Genload",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.eDocuments",
+    "name": "format: eDocuments",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Cataloging"
+      "method: Manual",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.eDocuments",
+    "name": "format: eDocuments",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Acquisitions"
+      "method: Manual",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.eDocuments",
+    "name": "format: eDocuments",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Cataloging"
+      "method: Aleph",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.eDocuments",
+    "name": "format: eDocuments",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Acquisitions"
+      "method: Aleph",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.eDocuments",
+    "name": "format: eDocuments",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Cataloging"
+      "method: Genload",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.eDocuments",
+    "name": "format: eDocuments",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Acquisitions"
+      "method: Genload",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.Media",
+    "name": "format: Media",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Cataloging"
+      "method: Manual",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.Media",
+    "name": "format: Media",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Acquisitions"
+      "method: Manual",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.Media",
+    "name": "format: Media",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Cataloging"
+      "method: Aleph",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.Media",
+    "name": "format: Media",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Acquisitions"
+      "method: Aleph",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.Media",
+    "name": "format: Media",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Cataloging"
+      "method: Genload",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.Media",
+    "name": "format: Media",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Acquisitions"
+      "method: Genload",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.eMedia",
+    "name": "format: eMedia",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Cataloging"
+      "method: Manual",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.eMedia",
+    "name": "format: eMedia",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Acquisitions"
+      "method: Manual",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.eMedia",
+    "name": "format: eMedia",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Cataloging"
+      "method: Aleph",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.eMedia",
+    "name": "format: eMedia",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Acquisitions"
+      "method: Aleph",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.eMedia",
+    "name": "format: eMedia",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Cataloging"
+      "method: Genload",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.eMedia",
+    "name": "format: eMedia",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Acquisitions"
+      "method: Genload",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.Other",
+    "name": "format: Other",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Cataloging"
+      "method: Manual",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.Other",
+    "name": "format: Other",
     "size": 1000,
     "processes": [
-      "catstats.method.Manual",
-      "catstats.unit.Acquisitions"
+      "method: Manual",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.Other",
+    "name": "format: Other",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Cataloging"
+      "method: Aleph",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.Other",
+    "name": "format: Other",
     "size": 1000,
     "processes": [
-      "catstats.method.Aleph",
-      "catstats.unit.Acquisitions"
+      "method: Aleph",
+      "unit: Acquisitions"
     ]
   },
   {
-    "name": "catstats.format.Other",
+    "name": "format: Other",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Cataloging"
+      "method: Genload",
+      "unit: Cataloging"
     ]
   },
   {
-    "name": "catstats.format.Other",
+    "name": "format: Other",
     "size": 1000,
     "processes": [
-      "catstats.method.Genload",
-      "catstats.unit.Acquisitions"
+      "method: Genload",
+      "unit: Acquisitions"
     ]
   }
 ]
