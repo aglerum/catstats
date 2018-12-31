@@ -1,0 +1,1299 @@
+[
+    {
+    "name": "format.Books",
+    "size": 1000,
+    "processes": [
+        "method.Manual",
+        "unit.Cataloging"
+    ]
+},
+    {
+        "name": "format.Books",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.Books",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.Books",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.Books",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.Books",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.eBooks",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.eBooks",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.eBooks",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.eBooks",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.eBooks",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.eBooks",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.Serials",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.Serials",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.Serials",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.Serials",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.Serials",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.Serials",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.eSerials",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.eSerials",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.eSerials",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.eSerials",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.eSerials",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.eSerials",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.Documents",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.Documents",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.Documents",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.Documents",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.Documents",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.Documents",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.eDocuments",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.eDocuments",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.eDocuments",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.eDocuments",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.eDocuments",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.eDocuments",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.Media",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.Media",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.Media",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.Media",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.Media",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.Media",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.eMedia",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.eMedia",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "formate.Media",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.eMedia",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.eMedia",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.eMedia",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.Other",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.Other",
+        "size": 1000,
+        "processes": [
+            "method.Manual",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.Other",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.Other",
+        "size": 1000,
+        "processes": [
+            "method.Aleph",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "format.Other",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "format.Other",
+        "size": 1000,
+        "processes": [
+            "method.Genload",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.Books",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.Books",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.eBooks",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.eBooks",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.Serials",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.Serials",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.eSerials",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.eSerials",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.Documents",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.Documents",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.eDocuments",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.eDocuments",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.Media",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.Media",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.eMedia",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.eMedia",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.Other",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.Other",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.Books",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.Books",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.eBooks",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.eBooks",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.Serials",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.Serials",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.eSerials",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.eSerials",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.Documents",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.Documents",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.eDocuments",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.eDocuments",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.Media",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.Media",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.eMedia",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.eMedia",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.Other",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Aleph",
+        "size": 1000,
+        "processes": [
+            "format.Other",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.Books",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.Books",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.eBooks",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.eBooks",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.Serials",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.Serials",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.eSerials",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.eSerials",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.Documents",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.Documents",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.eDocuments",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.eDocuments",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.Media",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.Media",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.eMedia",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.eMedia",
+            "unit.Cataloging"
+        ]
+    },
+    {
+        "name": "method.Genload",
+        "size": 1000,
+        "processes": [
+            "format.Other",
+            "unit.Acquisitions"
+        ]
+    },
+    {
+        "name": "method.Manual",
+        "size": 1000,
+        "processes": [
+            "format.Other",
+            "unit.Cataloging"
+        ]
+    },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.Books",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.Books",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.Books",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.Books",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.Books",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.Books",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.eBooks",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.eBooks",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.eBooks",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.eBooks",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.eBooks",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.eBooks",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.Serials",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.Serials",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.Serials",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.Serials",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.Serials",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.Serials",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.eSerials",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.eSerials",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.eSerials",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.eSerials",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.eSerials",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.eSerials",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.Documents",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.Documents",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.Documents",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.Documents",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.Documents",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.Documents",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.eDocuments",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.eDocuments",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.eDocuments",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.eDocuments",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.eDocuments",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.eDocuments",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.Media",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.Media",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.Media",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.Media",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.Media",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.Media",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.eMedia",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.eMedia",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.eMedia",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.eMedia",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.eMedia",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.eMedia",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.Other",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.Other",
+      "method.Manual"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.Other",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.Other",
+      "method.Aleph"
+    ]
+  },
+  {
+    "name": "unit.Cataloging",
+    "size": 1000,
+    "processes": [
+      "format.Other",
+      "method.Genload"
+    ]
+  },
+  {
+    "name": "unit.Acquisitions",
+    "size": 1000,
+    "processes": [
+      "format.Other",
+      "method.Genload"
+    ]
+  }
+
+]
