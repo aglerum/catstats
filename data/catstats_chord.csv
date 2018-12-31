@@ -1,0 +1,52 @@
+root,node,count
+Books,Manual,10
+eBooks,Manual,10
+Serials,Manual,10
+eSerials,Manual,10
+Documents,Manual,10
+eDocuments,Manual,10
+Media,Manual,10
+eMedia,Manual,10
+Other,Manual,10
+Books,Aleph Services,10
+eBooks,Aleph Services,10
+Serials,Aleph Services,10
+eSerials,Aleph Services,10
+Documents,Aleph Services,10
+eDocuments,Aleph Services,10
+Media,Aleph Services,10
+eMedia,Aleph Services,10
+Other,Aleph Services,10
+Books,Genload,10
+eBooks,Genload,10
+Serials,Genload,10
+eSerials,Genload,10
+Documents,Genload,10
+eDocuments,Genload,10
+Media,Genload,10
+eMedia,Genload,10
+Other,Genload,10
+Manual,Cataloging,10
+Aleph Services,Cataloging,10
+Genload,Cataloging,10
+Manual,Acquisitions,10
+Aleph Services,Acquisitions,10
+Genload,Acquisitions,10
+Acquisitions,Book,10
+Cataloging,Book,10
+Acquisitions,eBooks,10
+Cataloging,eBooks,10
+Acquisitions,Serials,10
+Cataloging,Serials,10
+Acquisitions,eSerials,10
+Cataloging,eSerials,10
+Acquisitions,Documents,10
+Cataloging,Documents,10
+Acquisitions,eDocuments,10
+Cataloging,eDocuments,10
+Acquisitions,Media,10
+Cataloging,Media,10
+Acquisitions,eMedia,10
+Cataloging,eMedia,10
+Acquisitions,Other,10
+Cataloging,Other,10
