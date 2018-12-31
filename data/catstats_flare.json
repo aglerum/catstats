@@ -2,7 +2,7 @@
     {
     "name": "catstats.format.Books",
     "size": 1000,
-    "imports": [
+    "processes": [
         "method.Manual",
         "unit.Cataloging"
     ]
@@ -10,7 +10,7 @@
     {
         "name": "catstats.format.Books",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Acquisitions"
         ]
@@ -18,7 +18,7 @@
     {
         "name": "catstats.format.Books",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Cataloging"
         ]
@@ -26,7 +26,7 @@
     {
         "name": "catstats.format.Books",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Acquisitions"
         ]
@@ -34,7 +34,7 @@
     {
         "name": "catstats.format.Books",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Cataloging"
         ]
@@ -42,7 +42,7 @@
     {
         "name": "catstats.format.Books",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Acquisitions"
         ]
@@ -50,7 +50,7 @@
     {
         "name": "catstats.format.eBooks",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Cataloging"
         ]
@@ -58,7 +58,7 @@
     {
         "name": "catstats.format.eBooks",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Acquisitions"
         ]
@@ -66,7 +66,7 @@
     {
         "name": "catstats.format.eBooks",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Cataloging"
         ]
@@ -74,7 +74,7 @@
     {
         "name": "catstats.format.eBooks",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Acquisitions"
         ]
@@ -82,7 +82,7 @@
     {
         "name": "catstats.format.eBooks",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Cataloging"
         ]
@@ -90,7 +90,7 @@
     {
         "name": "catstats.format.eBooks",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Acquisitions"
         ]
@@ -98,7 +98,7 @@
     {
         "name": "catstats.format.Serials",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Cataloging"
         ]
@@ -106,7 +106,7 @@
     {
         "name": "catstats.format.Serials",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Acquisitions"
         ]
@@ -114,7 +114,7 @@
     {
         "name": "catstats.format.Serials",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Cataloging"
         ]
@@ -122,7 +122,7 @@
     {
         "name": "catstats.format.Serials",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Acquisitions"
         ]
@@ -130,7 +130,7 @@
     {
         "name": "catstats.format.Serials",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Cataloging"
         ]
@@ -138,7 +138,7 @@
     {
         "name": "catstats.format.Serials",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Acquisitions"
         ]
@@ -146,7 +146,7 @@
     {
         "name": "catstats.format.eSerials",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Cataloging"
         ]
@@ -154,7 +154,7 @@
     {
         "name": "catstats.format.eSerials",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Acquisitions"
         ]
@@ -162,7 +162,7 @@
     {
         "name": "catstats.format.eSerials",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Cataloging"
         ]
@@ -170,7 +170,7 @@
     {
         "name": "catstats.format.eSerials",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Acquisitions"
         ]
@@ -178,7 +178,7 @@
     {
         "name": "catstats.format.eSerials",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Cataloging"
         ]
@@ -186,7 +186,7 @@
     {
         "name": "catstats.format.eSerials",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Acquisitions"
         ]
@@ -194,7 +194,7 @@
     {
         "name": "catstats.format.Documents",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Cataloging"
         ]
@@ -202,7 +202,7 @@
     {
         "name": "catstats.format.Documents",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Acquisitions"
         ]
@@ -210,7 +210,7 @@
     {
         "name": "catstats.format.Documents",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Cataloging"
         ]
@@ -218,7 +218,7 @@
     {
         "name": "catstats.format.Documents",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Acquisitions"
         ]
@@ -226,7 +226,7 @@
     {
         "name": "catstats.format.Documents",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Cataloging"
         ]
@@ -234,7 +234,7 @@
     {
         "name": "catstats.format.Documents",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Acquisitions"
         ]
@@ -242,7 +242,7 @@
     {
         "name": "catstats.format.eDocuments",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Cataloging"
         ]
@@ -250,7 +250,7 @@
     {
         "name": "catstats.format.eDocuments",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Acquisitions"
         ]
@@ -258,7 +258,7 @@
     {
         "name": "catstats.format.eDocuments",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Cataloging"
         ]
@@ -266,7 +266,7 @@
     {
         "name": "catstats.format.eDocuments",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Acquisitions"
         ]
@@ -274,7 +274,7 @@
     {
         "name": "catstats.format.eDocuments",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Cataloging"
         ]
@@ -282,7 +282,7 @@
     {
         "name": "catstats.format.eDocuments",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Acquisitions"
         ]
@@ -290,7 +290,7 @@
     {
         "name": "catstats.format.Media",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Cataloging"
         ]
@@ -298,7 +298,7 @@
     {
         "name": "catstats.format.Media",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Acquisitions"
         ]
@@ -306,7 +306,7 @@
     {
         "name": "catstats.format.Media",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Cataloging"
         ]
@@ -314,7 +314,7 @@
     {
         "name": "catstats.format.Media",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Acquisitions"
         ]
@@ -322,7 +322,7 @@
     {
         "name": "catstats.format.Media",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Cataloging"
         ]
@@ -330,7 +330,7 @@
     {
         "name": "catstats.format.Media",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Acquisitions"
         ]
@@ -338,7 +338,7 @@
     {
         "name": "catstats.format.eMedia",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Cataloging"
         ]
@@ -346,7 +346,7 @@
     {
         "name": "catstats.format.eMedia",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Acquisitions"
         ]
@@ -354,7 +354,7 @@
     {
         "name": "catstats.format.eMedia",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Cataloging"
         ]
@@ -362,7 +362,7 @@
     {
         "name": "catstats.format.eMedia",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Acquisitions"
         ]
@@ -370,7 +370,7 @@
     {
         "name": "catstats.format.eMedia",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Cataloging"
         ]
@@ -378,7 +378,7 @@
     {
         "name": "catstats.format.eMedia",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Acquisitions"
         ]
@@ -386,7 +386,7 @@
     {
         "name": "catstats.format.Other",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Cataloging"
         ]
@@ -394,7 +394,7 @@
     {
         "name": "catstats.format.Other",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Manual",
             "unit.Acquisitions"
         ]
@@ -402,7 +402,7 @@
     {
         "name": "catstats.format.Other",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Cataloging"
         ]
@@ -410,7 +410,7 @@
     {
         "name": "catstats.format.Other",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Aleph",
             "unit.Acquisitions"
         ]
@@ -418,7 +418,7 @@
     {
         "name": "catstats.format.Other",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Cataloging"
         ]
@@ -426,7 +426,7 @@
     {
         "name": "catstats.format.Other",
         "size": 1000,
-        "imports": [
+        "processes": [
             "method.Genload",
             "unit.Acquisitions"
         ]
@@ -434,7 +434,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Books",
             "unit.Acquisitions"
         ]
@@ -442,7 +442,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Books",
             "unit.Cataloging"
         ]
@@ -450,7 +450,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eBooks",
             "unit.Acquisitions"
         ]
@@ -458,7 +458,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eBooks",
             "unit.Cataloging"
         ]
@@ -466,7 +466,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Serials",
             "unit.Acquisitions"
         ]
@@ -474,7 +474,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Serials",
             "unit.Cataloging"
         ]
@@ -482,7 +482,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eSerials",
             "unit.Acquisitions"
         ]
@@ -490,7 +490,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eSerials",
             "unit.Cataloging"
         ]
@@ -498,7 +498,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Documents",
             "unit.Acquisitions"
         ]
@@ -506,7 +506,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Documents",
             "unit.Cataloging"
         ]
@@ -514,7 +514,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eDocuments",
             "unit.Acquisitions"
         ]
@@ -522,7 +522,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eDocuments",
             "unit.Cataloging"
         ]
@@ -530,7 +530,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Media",
             "unit.Acquisitions"
         ]
@@ -538,7 +538,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Media",
             "unit.Cataloging"
         ]
@@ -546,7 +546,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eMedia",
             "unit.Acquisitions"
         ]
@@ -554,7 +554,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eMedia",
             "unit.Cataloging"
         ]
@@ -562,7 +562,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Other",
             "unit.Acquisitions"
         ]
@@ -570,7 +570,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Other",
             "unit.Cataloging"
         ]
@@ -578,7 +578,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Books",
             "unit.Acquisitions"
         ]
@@ -586,7 +586,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Books",
             "unit.Cataloging"
         ]
@@ -594,7 +594,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eBooks",
             "unit.Acquisitions"
         ]
@@ -602,7 +602,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eBooks",
             "unit.Cataloging"
         ]
@@ -610,7 +610,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Serials",
             "unit.Acquisitions"
         ]
@@ -618,7 +618,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Serials",
             "unit.Cataloging"
         ]
@@ -626,7 +626,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eSerials",
             "unit.Acquisitions"
         ]
@@ -634,7 +634,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eSerials",
             "unit.Cataloging"
         ]
@@ -642,7 +642,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Documents",
             "unit.Acquisitions"
         ]
@@ -650,7 +650,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Documents",
             "unit.Cataloging"
         ]
@@ -658,7 +658,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eDocuments",
             "unit.Acquisitions"
         ]
@@ -666,7 +666,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eDocuments",
             "unit.Cataloging"
         ]
@@ -674,7 +674,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Media",
             "unit.Acquisitions"
         ]
@@ -682,7 +682,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Media",
             "unit.Cataloging"
         ]
@@ -690,7 +690,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eMedia",
             "unit.Acquisitions"
         ]
@@ -698,7 +698,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eMedia",
             "unit.Cataloging"
         ]
@@ -706,7 +706,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Other",
             "unit.Acquisitions"
         ]
@@ -714,7 +714,7 @@
     {
         "name": "catstats.method.Aleph",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Other",
             "unit.Cataloging"
         ]
@@ -722,7 +722,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Books",
             "unit.Acquisitions"
         ]
@@ -730,7 +730,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Books",
             "unit.Cataloging"
         ]
@@ -738,7 +738,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eBooks",
             "unit.Acquisitions"
         ]
@@ -746,7 +746,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eBooks",
             "unit.Cataloging"
         ]
@@ -754,7 +754,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Serials",
             "unit.Acquisitions"
         ]
@@ -762,7 +762,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Serials",
             "unit.Cataloging"
         ]
@@ -770,7 +770,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eSerials",
             "unit.Acquisitions"
         ]
@@ -778,7 +778,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eSerials",
             "unit.Cataloging"
         ]
@@ -786,7 +786,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Documents",
             "unit.Acquisitions"
         ]
@@ -794,7 +794,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Documents",
             "unit.Cataloging"
         ]
@@ -802,7 +802,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eDocuments",
             "unit.Acquisitions"
         ]
@@ -810,7 +810,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eDocuments",
             "unit.Cataloging"
         ]
@@ -818,7 +818,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Media",
             "unit.Acquisitions"
         ]
@@ -826,7 +826,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Media",
             "unit.Cataloging"
         ]
@@ -834,7 +834,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eMedia",
             "unit.Acquisitions"
         ]
@@ -842,7 +842,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.eMedia",
             "unit.Cataloging"
         ]
@@ -850,7 +850,7 @@
     {
         "name": "catstats.method.Genload",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Other",
             "unit.Acquisitions"
         ]
@@ -858,7 +858,7 @@
     {
         "name": "catstats.method.Manual",
         "size": 1000,
-        "imports": [
+        "processes": [
             "format.Other",
             "unit.Cataloging"
         ]
@@ -866,7 +866,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Books",
       "method.Manual"
     ]
@@ -874,7 +874,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Books",
       "method.Manual"
     ]
@@ -882,7 +882,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Books",
       "method.Aleph"
     ]
@@ -890,7 +890,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Books",
       "method.Aleph"
     ]
@@ -898,7 +898,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Books",
       "method.Genload"
     ]
@@ -906,7 +906,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Books",
       "method.Genload"
     ]
@@ -914,7 +914,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eBooks",
       "method.Manual"
     ]
@@ -922,7 +922,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eBooks",
       "method.Manual"
     ]
@@ -930,7 +930,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eBooks",
       "method.Aleph"
     ]
@@ -938,7 +938,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eBooks",
       "method.Aleph"
     ]
@@ -946,7 +946,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eBooks",
       "method.Genload"
     ]
@@ -954,7 +954,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eBooks",
       "method.Genload"
     ]
@@ -962,7 +962,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Serials",
       "method.Manual"
     ]
@@ -970,7 +970,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Serials",
       "method.Manual"
     ]
@@ -978,7 +978,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Serials",
       "method.Aleph"
     ]
@@ -986,7 +986,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Serials",
       "method.Aleph"
     ]
@@ -994,7 +994,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Serials",
       "method.Genload"
     ]
@@ -1002,7 +1002,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Serials",
       "method.Genload"
     ]
@@ -1010,7 +1010,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eSerials",
       "method.Manual"
     ]
@@ -1018,7 +1018,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eSerials",
       "method.Manual"
     ]
@@ -1026,7 +1026,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eSerials",
       "method.Aleph"
     ]
@@ -1034,7 +1034,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eSerials",
       "method.Aleph"
     ]
@@ -1042,7 +1042,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eSerials",
       "method.Genload"
     ]
@@ -1050,7 +1050,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eSerials",
       "method.Genload"
     ]
@@ -1058,7 +1058,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Documents",
       "method.Manual"
     ]
@@ -1066,7 +1066,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Documents",
       "method.Manual"
     ]
@@ -1074,7 +1074,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Documents",
       "method.Aleph"
     ]
@@ -1082,7 +1082,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Documents",
       "method.Aleph"
     ]
@@ -1090,7 +1090,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Documents",
       "method.Genload"
     ]
@@ -1098,7 +1098,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Documents",
       "method.Genload"
     ]
@@ -1106,7 +1106,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eDocuments",
       "method.Manual"
     ]
@@ -1114,7 +1114,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eDocuments",
       "method.Manual"
     ]
@@ -1122,7 +1122,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eDocuments",
       "method.Aleph"
     ]
@@ -1130,7 +1130,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eDocuments",
       "method.Aleph"
     ]
@@ -1138,7 +1138,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eDocuments",
       "method.Genload"
     ]
@@ -1146,7 +1146,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eDocuments",
       "method.Genload"
     ]
@@ -1154,7 +1154,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Media",
       "method.Manual"
     ]
@@ -1162,7 +1162,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Media",
       "method.Manual"
     ]
@@ -1170,7 +1170,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Media",
       "method.Aleph"
     ]
@@ -1178,7 +1178,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Media",
       "method.Aleph"
     ]
@@ -1186,7 +1186,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Media",
       "method.Genload"
     ]
@@ -1194,7 +1194,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Media",
       "method.Genload"
     ]
@@ -1202,7 +1202,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eMedia",
       "method.Manual"
     ]
@@ -1210,7 +1210,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eMedia",
       "method.Manual"
     ]
@@ -1218,7 +1218,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eMedia",
       "method.Aleph"
     ]
@@ -1226,7 +1226,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eMedia",
       "method.Aleph"
     ]
@@ -1234,7 +1234,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eMedia",
       "method.Genload"
     ]
@@ -1242,7 +1242,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.eMedia",
       "method.Genload"
     ]
@@ -1250,7 +1250,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Other",
       "method.Manual"
     ]
@@ -1258,7 +1258,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Other",
       "method.Manual"
     ]
@@ -1266,7 +1266,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Other",
       "method.Aleph"
     ]
@@ -1274,7 +1274,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Other",
       "method.Aleph"
     ]
@@ -1282,7 +1282,7 @@
   {
     "name": "catstats.unit.Cataloging",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Other",
       "method.Genload"
     ]
@@ -1290,7 +1290,7 @@
   {
     "name": "catstats.unit.Acquisitions",
     "size": 1000,
-    "imports": [
+    "processes": [
       "format.Other",
       "method.Genload"
     ]
