@@ -1,0 +1,3853 @@
+[
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 654
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 594
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 558
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 1023
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 207
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 41
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 14
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 26
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 11
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 17138
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 17
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "Streaming Audio",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 174
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Acquisitions",
+      "Format" : "Book",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 81
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Acquisitions",
+      "Format" : "Book",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 51
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Acquisitions",
+      "Format" : "Book",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 33
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Audio CD",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Audio CD",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 606
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 619
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 551
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 573
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 387
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 473
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 465
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 584
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 1081
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 1647
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 793
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 784
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 10
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 6
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 10
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 6
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 32
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 35
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 20
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 8
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 21
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 4
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 8
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 14
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 7
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 6
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 18
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 18
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 44
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 4
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 13
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 10
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 27
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 18
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eDocument",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eDocument",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 29
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "ePeriodical",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 7
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Map",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 4
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Map",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Microform",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Microform",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Microform",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Microform",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 5
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Microform",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Mixed",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Periodical",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 54
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 91
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Streaming Audio",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Streaming Audio",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Streaming Audio",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "VHS",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 18
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 64
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 21
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 45
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 42
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 62
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 37
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 17
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 18
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 30
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 31
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 16
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 19
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "CD-ROM",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "CD-ROM",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 2
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "CD-ROM",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Database",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 5
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 13
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 17
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 28
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 2
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 15
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 35
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 65
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 80
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 6
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 10
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 81
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "DVD",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "DVD",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "eBook",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Map",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Map",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Microform",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Microform",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 4
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Microform",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 2
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 4
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 2
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 4
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 2
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 6
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 2
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 2
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 6
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Additions",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 4
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Audio CD",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -8
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : -28
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : -197
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : -249
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : -207
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : -201
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -280
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -218
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -172
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : -101
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : -712
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : -693
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : -805
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : -5
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -6
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -4
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -2
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -2
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -47
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : -4
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : -14
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -28
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -29
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : -42
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -18
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Microform",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -2
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Mixed",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -4
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Periodical",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -20
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : -3
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "VHS",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "VHS",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "VHS",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -9
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "VHS",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : -118
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "VHS",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : -33
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "VHS",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : -15
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : -3
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : -2
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -10
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : -19
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : -22
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Microform",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : -10
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Microform",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : -18
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : -17
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : -7
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : -8
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : -4
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Titles",
+      "Action" : "Withdraw",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -2
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 654
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 595
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 558
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 1025
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 210
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 41
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 14
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 26
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 11
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 17138
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 17
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "GENLOAD",
+      "Unit" : "Cataloging",
+      "Format" : "Streaming Audio",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 174
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Acquisitions",
+      "Format" : "Book",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 81
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Acquisitions",
+      "Format" : "Book",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 52
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Acquisitions",
+      "Format" : "Book",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 33
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Audio CD",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 5
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Audio CD",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 682
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 734
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 644
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 648
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 411
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 502
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 502
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 625
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 1117
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 1748
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 894
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 944
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 2
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 173
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 8
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 10
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 32
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 12
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 108
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 116
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 150
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 571
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 647
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 223
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 34
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 40
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 23
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 11
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 21
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 5
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 12
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 15
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 7
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 6
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 36
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 18
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 44
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 4
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 13
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 10
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 27
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 18
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eDocument",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eDocument",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 29
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "ePeriodical",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 78
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Map",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 4
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Map",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Microform",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 118
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Microform",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Microform",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 2
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Microform",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 5
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Microform",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Periodical",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 54
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Periodical",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 5
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 106
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Streaming Audio",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Streaming Audio",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Streaming Audio",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "VHS",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 47
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 68
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 22
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 52
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 42
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 65
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 37
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 239
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 19
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 33
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 37
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 19
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 20
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "CD-ROM",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 6
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "CD-ROM",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "CD-ROM",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 5
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "CD-ROM",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "CD-ROM",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "CD-ROM",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "CD-ROM",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "CD-ROM",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 2
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "CD-ROM",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 7
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "CD-ROM",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "CD-ROM",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 16
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Database",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 62
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 79
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 161
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 127
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 8
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 68
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 114
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 328
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 413
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 74
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 64
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 661
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "DVD",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 4
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "DVD",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 20
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "eBook",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Map",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Map",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Microform",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 5
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Microform",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Microform",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Microform",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 3
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Microform",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 2
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Microform",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 7
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 4
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 2
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 118
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 284
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 156
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 31
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 101
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 239
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 116
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 178
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 21
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : 326
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : 112
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : 264
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : 181
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : 86
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : 36
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : 6
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : 42
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : 41
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : 76
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : 21
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Addition",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : 38
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Audio CD",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -9
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Audio CD",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : -72
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : -212
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : -303
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : -292
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : -309
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -460
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -273
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -226
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : -112
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : -822
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : -895
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Book",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : -939
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : -3
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : -5
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -13
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -4
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "CD-ROM",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -4
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : -6
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : -5
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : -2
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -4
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -54
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Document",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : -15
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : -20
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : -2
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -50
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -80
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "DVD",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : -55
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "eBook",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -23
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Microform",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -4
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Microform",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -90
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Mixed",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -4
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Periodical",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -25
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : -11
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -8
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -6
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -2
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : -2
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "Serial",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "VHS",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "VHS",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "VHS",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "VHS",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -10
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "VHS",
+      "Date" : "2014-09-01T08:00:00.000Z",
+      "Count" : -150
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "VHS",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : -41
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "VHS",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : -2
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Cataloging",
+      "Format" : "VHS",
+      "Date" : "2014-12-01T08:00:00.000Z",
+      "Count" : -26
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : -3
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : -2
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Book",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -128
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Document",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -41
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Microform",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : -340
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Microform",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : -372
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : -117
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : -1
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Periodical",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -10
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-01-01T08:00:00.000Z",
+      "Count" : -3
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-02-01T08:00:00.000Z",
+      "Count" : -339
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-03-01T08:00:00.000Z",
+      "Count" : -66
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-04-01T08:00:00.000Z",
+      "Count" : -22
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-05-01T08:00:00.000Z",
+      "Count" : -6
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-06-01T08:00:00.000Z",
+      "Count" : -88
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-07-01T08:00:00.000Z",
+      "Count" : -4
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-08-01T08:00:00.000Z",
+      "Count" : -30
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-10-01T08:00:00.000Z",
+      "Count" : -5
+    },
+    {
+      "Category" : "Volumes",
+      "Action" : "Withdrawn",
+      "Method" : "Manual",
+      "Unit" : "Serials",
+      "Format" : "Serial",
+      "Date" : "2014-11-01T08:00:00.000Z",
+      "Count" : -1
+    }  ]
