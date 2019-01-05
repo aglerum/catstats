@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05f4e1e8-042d-4a8e-8a42-3835577fe942" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/catstats_summary_2014.json" afterPath="$PROJECT_DIR$/data/catstats_summary_2014.json" />
-    </list>
+    <list default="true" id="05f4e1e8-042d-4a8e-8a42-3835577fe942" name="Default" comment="" />
     <ignored path="catstats.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +24,7 @@
       <file leaf-file-name="catstats_summary_2014.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/catstats_summary_2014.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="-16440">
               <caret line="3147" column="30" selection-start-line="3147" selection-start-column="30" selection-end-line="3147" selection-end-column="30" />
               <folding />
             </state>
@@ -179,6 +177,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="05f4e1e8-042d-4a8e-8a42-3835577fe942" name="Default" comment="" />
@@ -186,16 +187,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546644232429</updated>
-      <workItem from="1546644233606" duration="465000" />
+      <workItem from="1546644233606" duration="756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="465000" />
+    <option name="totallyTimeSpent" value="756000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="108" y="42" width="1262" height="766" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960381" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -215,6 +216,14 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -225,7 +234,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/data/catstats_summary_2014.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="-16440">
           <caret line="3147" column="30" selection-start-line="3147" selection-start-column="30" selection-end-line="3147" selection-end-column="30" />
           <folding />
         </state>
