@@ -1,0 +1,314 @@
+[
+    {
+      "name" : "Titles: Additions",
+      "year" : 2017,
+      "size" : 1,
+      "format" : "eSerials"
+    },
+    {
+      "name" : "Titles: Additions",
+      "year" : 2017,
+      "size" : 1495,
+      "format" : "eBook"
+    },
+    {
+      "name" : "Titles: Additions",
+      "year" : 2017,
+      "size" : 24,
+      "format" : "Serials"
+    },
+    {
+      "name" : "Titles: Additions",
+      "year" : 2017,
+      "size" : 27,
+      "format" : "Document"
+    },
+    {
+      "name" : "Titles: Additions",
+      "year" : 2017,
+      "size" : 37,
+      "format" : "Other"
+    },
+    {
+      "name" : "Titles: Additions",
+      "year" : 2017,
+      "size" : 7658,
+      "format" : "Book"
+    },
+    {
+      "name" : "Titles: Additions",
+      "year" : 2017,
+      "size" : 79,
+      "format" : "Media"
+    },
+    {
+      "name" : "Titles: Additions",
+      "year" : 2017,
+      "size" : 8,
+      "format" : "eDocument"
+    },
+    {
+      "name" : "Titles: Additions",
+      "year" : 2018,
+      "size" : 1,
+      "format" : "eDoc"
+    },
+    {
+      "name" : "Titles: Additions",
+      "year" : 2018,
+      "size" : 1034,
+      "format" : "eSerials"
+    },
+    {
+      "name" : "Titles: Additions",
+      "year" : 2018,
+      "size" : 113,
+      "format" : "Media"
+    },
+    {
+      "name" : "Titles: Additions",
+      "year" : 2018,
+      "size" : 302,
+      "format" : "Other"
+    },
+    {
+      "name" : "Titles: Additions",
+      "year" : 2018,
+      "size" : 38,
+      "format" : "Serials"
+    },
+    {
+      "name" : "Titles: Additions",
+      "year" : 2018,
+      "size" : 679,
+      "format" : "eBook"
+    },
+    {
+      "name" : "Titles: Additions",
+      "year" : 2018,
+      "size" : 8574,
+      "format" : "Book"
+    },
+    {
+      "name" : "Titles: Additions",
+      "year" : 2018,
+      "size" : 86,
+      "format" : "Document"
+    },
+    {
+      "name" : "Titles: Withdraws",
+      "year" : 2017,
+      "size" : -10,
+      "format" : "Media"
+    },
+    {
+      "name" : "Titles: Withdraws",
+      "year" : 2017,
+      "size" : -2073,
+      "format" : "Book"
+    },
+    {
+      "name" : "Titles: Withdraws",
+      "year" : 2017,
+      "size" : -559,
+      "format" : "Serials"
+    },
+    {
+      "name" : "Titles: Withdraws",
+      "year" : 2018,
+      "size" : -1641,
+      "format" : "Book"
+    },
+    {
+      "name" : "Titles: Withdraws",
+      "year" : 2018,
+      "size" : -2,
+      "format" : "Other"
+    },
+    {
+      "name" : "Titles: Withdraws",
+      "year" : 2018,
+      "size" : -283,
+      "format" : "Serials"
+    },
+    {
+      "name" : "Titles: Withdraws",
+      "year" : 2018,
+      "size" : -297,
+      "format" : "eMedia"
+    },
+    {
+      "name" : "Titles: Withdraws",
+      "year" : 2018,
+      "size" : -3534,
+      "format" : "Media"
+    },
+    {
+      "name" : "Titles: Withdraws",
+      "year" : 2018,
+      "size" : -40,
+      "format" : "Document"
+    },
+    {
+      "name" : "Titles: Withdraws",
+      "year" : 2018,
+      "size" : -5269,
+      "format" : "eBook"
+    },
+    {
+      "name" : "Volumes: Additions",
+      "year" : 2017,
+      "size" : 1,
+      "format" : "eSerials"
+    },
+    {
+      "name" : "Volumes: Additions",
+      "year" : 2017,
+      "size" : 1067,
+      "format" : "Serials"
+    },
+    {
+      "name" : "Volumes: Additions",
+      "year" : 2017,
+      "size" : 132,
+      "format" : "Media"
+    },
+    {
+      "name" : "Volumes: Additions",
+      "year" : 2017,
+      "size" : 1557,
+      "format" : "eBook"
+    },
+    {
+      "name" : "Volumes: Additions",
+      "year" : 2017,
+      "size" : 165,
+      "format" : "Document"
+    },
+    {
+      "name" : "Volumes: Additions",
+      "year" : 2017,
+      "size" : 37,
+      "format" : "Other"
+    },
+    {
+      "name" : "Volumes: Additions",
+      "year" : 2017,
+      "size" : 7894,
+      "format" : "Book"
+    },
+    {
+      "name" : "Volumes: Additions",
+      "year" : 2017,
+      "size" : 8,
+      "format" : "eDocument"
+    },
+    {
+      "name" : "Volumes: Additions",
+      "year" : 2018,
+      "size" : 1,
+      "format" : "eDoc"
+    },
+    {
+      "name" : "Volumes: Additions",
+      "year" : 2018,
+      "size" : 1034,
+      "format" : "eSerials"
+    },
+    {
+      "name" : "Volumes: Additions",
+      "year" : 2018,
+      "size" : 182,
+      "format" : "Media"
+    },
+    {
+      "name" : "Volumes: Additions",
+      "year" : 2018,
+      "size" : 302,
+      "format" : "Other"
+    },
+    {
+      "name" : "Volumes: Additions",
+      "year" : 2018,
+      "size" : 56,
+      "format" : "Document"
+    },
+    {
+      "name" : "Volumes: Additions",
+      "year" : 2018,
+      "size" : 679,
+      "format" : "eBook"
+    },
+    {
+      "name" : "Volumes: Additions",
+      "year" : 2018,
+      "size" : 851,
+      "format" : "Serials"
+    },
+    {
+      "name" : "Volumes: Additions",
+      "year" : 2018,
+      "size" : 8976,
+      "format" : "Book"
+    },
+    {
+      "name" : "Volumes: Withdraws",
+      "year" : 2017,
+      "size" : -16033,
+      "format" : "Serials"
+    },
+    {
+      "name" : "Volumes: Withdraws",
+      "year" : 2017,
+      "size" : -37,
+      "format" : "Media"
+    },
+    {
+      "name" : "Volumes: Withdraws",
+      "year" : 2017,
+      "size" : -4244,
+      "format" : "Book"
+    },
+    {
+      "name" : "Volumes: Withdraws",
+      "year" : 2018,
+      "size" : -1793,
+      "format" : "Book"
+    },
+    {
+      "name" : "Volumes: Withdraws",
+      "year" : 2018,
+      "size" : -2,
+      "format" : "Other"
+    },
+    {
+      "name" : "Volumes: Withdraws",
+      "year" : 2018,
+      "size" : -2624,
+      "format" : "Document"
+    },
+    {
+      "name" : "Volumes: Withdraws",
+      "year" : 2018,
+      "size" : -297,
+      "format" : "eMedia"
+    },
+    {
+      "name" : "Volumes: Withdraws",
+      "year" : 2018,
+      "size" : -3595,
+      "format" : "Media"
+    },
+    {
+      "name" : "Volumes: Withdraws",
+      "year" : 2018,
+      "size" : -4154,
+      "format" : "Serials"
+    },
+    {
+      "name" : "Volumes: Withdraws",
+      "year" : 2018,
+      "size" : -5269,
+      "format" : "eBook"
+    }
+  ]
