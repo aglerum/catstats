@@ -1,4 +1,4 @@
-date,Method,series,Format,TitleVolume,Activity,Unit,count
+date,Method,series,Format,Type,Activity,Unit,count
 2017-01,GENLOAD,Book,Book,Titles,additions,Acquisitions,270
 2017-01,GENLOAD,Book,Book,Volumes,additions,Acquisitions,274
 2017-01,Manual,Book,Book,Titles,additions,Cataloging,338
