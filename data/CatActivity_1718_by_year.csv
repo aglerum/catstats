@@ -1,4 +1,4 @@
-Year,Category,Volumes Withdrawn,Volumes Added,Titles Withdrawn,Titles Added
+Year,Category,Volumes Withdrawn,Volumes Added,Titles Withdawn,Titles Added
 2017,Book,-4244,7894,-2073,7658
 2017,Document,0,165,0,27
 2017,eBook,0,1557,0,1495
@@ -8,11 +8,11 @@ Year,Category,Volumes Withdrawn,Volumes Added,Titles Withdrawn,Titles Added
 2017,Other,0,37,0,37
 2017,Serials,-16033,1067,-559,24
 2018,Book,-1793,8976,-1641,8574
-2018,Continuing,-4154,851,-283,38
 2018,Document,-2624,56,-40,86
 2018,eBook,-5269,679,-5269,679
-2018,eContinuing,0,1034,0,1034
 2018,eDoc,0,1,0,1
 2018,eMedia,-297,0,-297,0
+2018,eSerials,0,1034,0,1034
 2018,Media,-3595,182,-3534,113
 2018,Other,-2,302,-2,302
+2018,Serials,-4154,851,-283,38
